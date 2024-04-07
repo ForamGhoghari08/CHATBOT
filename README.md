@@ -6,5 +6,5 @@ I hope it makes a good intro for anyone interested in chatbots and frontend fund
 
 Enjoy!
 
-##Preview 
+## Preview 
 ![Preview](https://github.com/ForamGhoghari08/Chatbot/assets/144684279/11d410b7-a70b-4c09-abd8-7e046274ece0)
